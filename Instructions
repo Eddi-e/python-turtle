@@ -1,0 +1,9 @@
+First you have to move the turtle forward by 100, or a number of your choice. This must be constant through out the code.
+Then move right by 60 degrees.
+After that move forward by another 100.
+Then move right by 120 degrees.
+Then move forward 100.
+Move 60 degrees to the right.
+After move forward 100.
+Then turn 120 degrees to the right to finish the diamond shape.
+Turn 36 degrees then repeat the cycle 9 times more.
